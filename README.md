@@ -9,6 +9,8 @@ This project demonstrates my ability to:
 - define clear labeling rules
 - create a clean dataset suitable for QA or model training
 
+Includes an "ambiguous query" dataset demonstrating tie-break reasoning for realistic search evaluation scenarios.
+
 ## Intents used
 - Informational
 - Navigational
