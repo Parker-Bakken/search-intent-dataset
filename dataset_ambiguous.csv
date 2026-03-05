@@ -1,0 +1,52 @@
+query,chosen_intent,alternative_intent,reasoning
+apple store, Navigational, Transactional,Most users likely want the official Apple Store website rather than a generic shopping result.
+best buy laptop, Transactional, Informational,Query suggests the user is looking to purchase laptops from Best Buy rather than just research laptops.
+amazon return, Navigational, Informational,Users typically want to reach Amazon's return portal or instructions page.
+youtube monetization requirements, Informational, Navigational,User wants to learn the criteria rather than navigate to a specific page.
+spotify premium price, Transactional, Informational,User is likely considering purchasing the subscription.
+uber driver requirements, Informational, Transactional,User researching requirements before deciding to apply.
+tesla stock price, Informational, Navigational,User wants information rather than visiting Tesla’s corporate site.
+netflix plans, Transactional, Informational,User is comparing subscription tiers before subscribing.
+facebook marketplace cars, Transactional, Navigational,User intends to browse items available for purchase.
+linkedin jobs, Navigational, Transactional,User likely wants to reach LinkedIn’s job search page.
+reddit ai tools, Informational, Navigational,User wants discussion about AI tools rather than just reaching Reddit.
+weather seattle, Informational, Local,Weather information relates to a location but the intent is informational.
+best pizza new york, Local, Informational,User likely wants nearby restaurant recommendations rather than a general article.
+costco membership, Transactional, Informational,User likely considering purchasing a membership.
+openai pricing, Informational, Transactional,User likely researching pricing before purchasing API access.
+zoom meeting download, Transactional, Navigational,User wants to download the Zoom app.
+github copilot price, Informational, Transactional,User likely researching subscription cost before buying.
+best ai image generator, Informational, Transactional,User comparing tools before choosing one.
+how to cancel spotify premium, Informational, Navigational,User needs instructions but may end up on the account page.
+amazon prime video, Navigational, Transactional,User likely wants to access the service page.
+download chrome, Transactional, Navigational,Download intent is primary even though a specific site is involved.
+cheap flights to paris, Transactional, Informational,User intends to book or compare ticket prices.
+restaurants open late near me, Local, Transactional,User is looking for nearby places but intends to visit or order.
+best laptop for programming, Informational, Transactional,Research stage before purchasing.
+iphone trade in value, Informational, Transactional,User researching resale value before trading.
+uber eats promo code, Transactional, Informational,User intends to use a discount during purchase.
+google docs template resume, Navigational, Informational,User likely wants to reach Google Docs templates.
+how to invest in bitcoin, Informational, Transactional,User researching before making an investment.
+walmart pharmacy hours, Local, Navigational,User checking hours of a nearby location.
+best gym membership price, Informational, Transactional,User comparing options before signing up.
+doordash driver signup, Transactional, Informational,User likely wants to start the signup process.
+canva logo maker, Navigational, Transactional,User likely wants to use Canva's tool.
+spotify student discount, Transactional, Informational,User intends to purchase with a discount.
+best camera for youtube, Informational, Transactional,Research before buying.
+cheap hotels las vegas, Transactional, Informational,User likely intends to book lodging.
+apple support phone number, Navigational, Informational,User wants contact details from Apple's support page.
+python course online free, Informational, Transactional,User may eventually enroll but is researching options.
+tesla charging stations near me, Local, Navigational,User looking for nearby locations.
+hulu free trial, Transactional, Informational,User intends to sign up.
+best productivity apps, Informational, Transactional,User researching before downloading or subscribing.
+linkedin premium cost, Informational, Transactional,User evaluating subscription pricing.
+download discord, Transactional, Navigational,User intends to install the application.
+nearest airport shuttle, Local, Transactional,User intends to book transportation.
+amazon customer service phone number, Navigational, Informational,User wants the official support page or phone number.
+best budget microphone for streaming, Informational, Transactional,User researching equipment before purchase.
+online therapy cost, Informational, Transactional,User evaluating services before signing up.
+where to watch nba games, Informational, Transactional,User researching streaming services before subscribing.
+gym open near me, Local, Informational,User checking nearby availability.
+best ai writing tools, Informational, Transactional,User comparing tools before choosing one.
+airbnb host requirements, Informational, Transactional,User researching before signing up as host.
+paypal fees, Informational, Transactional,User researching transaction costs before using service.
