@@ -25,10 +25,18 @@ The dataset is in `dataset.csv` with columns:
 - intent
 - notes
 
-## QA
-Basic checks and summaries are in `analysis.md`.
+## Dataset Creation Pipeline (Visual)
 
-## How this can be used
-- training/evaluating intent classifiers
-- improving search relevance
-- rater calibration examples
+```mermaid
+flowchart TD
+  A[Collect Queries] --> B[Normalize / Clean Text]
+  B --> C[Apply Intent Definitions]
+  C --> D{Ambiguous?}
+  D -- No --> E[Label Intent]
+  D -- Yes --> F[Record Alternative Intent]
+  F --> G[Write Tie-break Reasoning]
+  E --> H[QA Pass: Consistency Checks]
+  G --> H
+  H --> I[Export dataset.csv]
+  H --> J[Export dataset_ambiguous.csv]
+  H --> K[Write analysis.md + calibration notes]
